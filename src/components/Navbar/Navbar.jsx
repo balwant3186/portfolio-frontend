@@ -5,10 +5,10 @@ import { motion } from "framer-motion";
 import "./Navbar.scss";
 import { images } from "../../constants";
 
+export const menuItems = ["home", "about", "work", "skills", "contact"];
+
 const Navbar = () => {
   const [toggle, setToggle] = useState(false);
-
-  const menuItems = ["home", "about", "work", "skills", "contact"];
 
   return (
     <nav className="app__navbar">
