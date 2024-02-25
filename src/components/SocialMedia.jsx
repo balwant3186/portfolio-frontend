@@ -1,4 +1,4 @@
-import { BsTwitter, BsInstagram, BsFacebook } from "react-icons/bs";
+import { BsTwitter, BsInstagram } from "react-icons/bs";
 
 const SocialMedia = () => {
   return (
