@@ -24,6 +24,8 @@ import about04 from "../assets/about04.png";
 
 import profile from "../assets/profile.png";
 import circle from "../assets/circle.svg";
+import angular from "../assets/angular.png";
+import nextjs from "../assets/nextjs.svg";
 
 const images = {
   email,
@@ -50,6 +52,8 @@ const images = {
   about04,
   profile,
   circle,
+  angular,
+  nextjs,
 };
 
 export default images;
